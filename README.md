@@ -1,6 +1,6 @@
 # Vellli's Restaurant Website
 
-Welcome to the Vellli's Restaurant website repository! This repository contains the source code and assets for our restaurant's website.
+Welcome to the Vellli's Restaurant website repository! This repository contains the source code and assets for the restaurant's website.
 
 ## About Vellli's Restaurant
 
@@ -11,7 +11,8 @@ Vellli's Restaurant is a cozy, restaurant website. which can also make reservati
 - **Frontend**: React.js, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Others**: Bootstrap (for responsive design).
+- **Others**: Bootstrap (for responsive design)
+- **Resources** : Youtube.
 
 # Here are some pictures
 
